@@ -1,0 +1,8 @@
+- Hito 2. Acceso a la plataforma (aquí va el usuario de super admin y clave de acceso). http://143.244.157.186/login. Eso está ok. Está financiado a un año. Está además  más un plus que entregaré vía UNAB (almacenamiento y gestión de la información, bipartición modelo de datos, actualización
+- Hito 2. Manual de ingeniería. Está ok, entregado a dirección del proyecto
+- Hito 2. Manual de usuario. Está ok, entregado a dirección del proyecto
+- Hito 3. Reporte 1. Evaluación del sistema de gestión de Hospital San Pablo de Coquimbo. Eso no está a mi cargo
+- Hito 4. Reporte 2.  Evaluación del sistema de gestión de HGGB. Eso no está a mi cargo
+- Hito 5. Informe final. Eso no está a mi cargo
+- Estrategia de masificación (extracto del informe de formulación del proyecto). Eso no está a mi cargo
+- Resultado de protección y acuerdo comercial (aquí va la carta de la DITT de la UCN y pago por el estudio de derecho de autor y patentabilidad). Eso no está a mi cargo.
